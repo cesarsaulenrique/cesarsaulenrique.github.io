@@ -1,0 +1,45 @@
+.titulo span {
+    color: rgb(232, 195, 47);
+}
+.nav-link{
+    color: #ffff;
+}
+.nav-link:hover{
+    color: #000;
+}
+.navbar{
+    border-top: 1px solid tan;
+    border-bottom: 1px solid tan;
+    background-color: rgb(232, 195, 47);
+    
+}
+.imagen-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.imagen-principal{
+    background-image: url(../img/storeimg.jpg);
+    background-position: center;
+    height: 25rem;
+}
+.categorias h2{
+    color: rgb(232, 195, 47);
+    font-size: 2.5rem;
+    
+}
+
+.categorias a{
+    color: #272121;
+    text-decoration: none;
+    
+}
+hr{
+    border-radius: 10px;
+    border: 5px solid rgb(232, 195, 47);
+}
+footer a{
+    border-radius: 10px;
+}
